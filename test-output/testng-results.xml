@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76" started-at="2021-09-14T11:51:16 IST" finished-at="2021-09-14T11:51:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76" started-at="2021-09-14T11:51:16 IST" finished-at="2021-09-14T11:51:16 IST">
+      <class name="day12.DataProviderTestnG">
+        <test-method status="PASS" signature="tc(java.lang.String)[pri:0, instance:day12.DataProviderTestnG@74650e52]" name="tc" duration-ms="10" started-at="2021-09-14T11:51:16 IST" data-provider="testData" finished-at="2021-09-14T11:51:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc(java.lang.String)[pri:0, instance:day12.DataProviderTestnG@74650e52]" name="tc" duration-ms="2" started-at="2021-09-14T11:51:16 IST" data-provider="testData" finished-at="2021-09-14T11:51:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- day12.DataProviderTestnG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
